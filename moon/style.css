@@ -16,7 +16,7 @@
     bottom: 250px;
     left: 180px;
     width: 50px;
-    transition: transform 3s ease-in-out;
+    transition: transform 5s ease-in-out;
     transition-delay: 1s;
 }
 
