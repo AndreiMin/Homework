@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 800px;
+    height: 700px;
     position: relative;
 }
 
@@ -21,7 +21,7 @@
 }
 
 .content:hover .plane {
-    transform: translate(0px, 240px);
+    transform: translate(0px, 200px);
 }
 
 .plane:nth-child(2) {
