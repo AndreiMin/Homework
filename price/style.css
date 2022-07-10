@@ -22,7 +22,7 @@ body {
 
 .card {
     width: 220px;
-    height: 370px;
+    height: 300px;
     border-radius: 1.5rem;
     padding: 50px;
     box-shadow: 2px 2px 46px -4px rgba(0, 0, 0, 0.6);
@@ -86,7 +86,7 @@ body {
 .subscribe {
     color: black;
     background-color: white;
-    width: 130px;
+    width: 100px;
     border-radius: 1.5rem 0 1.5rem 0;
     position: absolute;
     right: 0;
