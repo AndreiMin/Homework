@@ -1,6 +1,6 @@
 body {
     background: #333745;
-    color: white;
+    color: rgb(162, 243, 252);
     font-family: "Open Sans", sans-serif;
     text-align: center;
     font-weight: bold;
@@ -52,18 +52,18 @@ body {
 }
 
 .card:nth-child(1) {
-    background: linear-gradient(to left, #91eab2, #86a8e7, #7f7fd5);
+    background: linear-gradient(to left, #82f1ab, #6682b7, #5c5cef);
 }
 
 .card:nth-child(2) {
-    background: linear-gradient(to left, #fc3fe9, #ff464a, #ff4a2b);
+    background: linear-gradient(to left, #ba2fac, #fb3438, #ff592b);
     width: 260px;
     height: 410px;
     top: 40px;
 }
 
 .card:nth-child(3) {
-    background: linear-gradient(to left, #014db1, #49bc6d, #90c23c);
+    background: linear-gradient(to left, #055dd0, #5df08c, #a73cc2);
 }
 
 .card .plan::before, .card .plan::after {
@@ -86,7 +86,7 @@ body {
 .subscribe {
     color: black;
     background-color: white;
-    width: 100px;
+    width: 80px;
     border-radius: 1.5rem 0 1.5rem 0;
     position: absolute;
     right: 0;
@@ -95,7 +95,7 @@ body {
 }
 
 .price-basic::before {
-    content: "$20"
+    content: "$25"
 }
 
 .price-awesome::before {
