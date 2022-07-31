@@ -16,7 +16,7 @@ table {
 }
 
 .mon-radius {
-    border-radius: 10px 0px 0px 0;
+    border-radius: 12px 0px 0px 0;
 }
 
 .sun-radius {
@@ -77,15 +77,15 @@ td {
 }
 
 .green-color {
-    background-color: #4ceb6e;
+    background-color: #9ceb4c;
 }
 
 .salmon-color {
-    background-color: #ff9999;
+    background-color: #df9b56;
 }
 
 .blue-color {
-    background-color: #85a4ff;
+    background-color: #c485ff;
 }
 
 .pink-color {
